@@ -1,0 +1,104 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FM1208 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/FM1208.res" /d "NDEBUG" /d "_AFXDLL" "I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA10A.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/FM1208.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208Dlg.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\hfrdapi.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\HexEdit.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA10A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA11A.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/FM1208.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA11A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA11B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/FM1208.pdb" /machine:I386 /out:"Release/FM1208.exe" 
+".\Release\FM1208.obj"
+".\Release\FM1208Dlg.obj"
+".\Release\hfrdapi.obj"
+".\Release\StdAfx.obj"
+".\Release\FM1208.res"
+".\Release\HexEdit.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA11B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FM1208.cpp
+FM1208Dlg.cpp
+hfrdapi.cpp
+HexEdit.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+FM1208.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: FM1208 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/FM1208.res" /d "_DEBUG" /d "_AFXDLL" "I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA449.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/FM1208.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\FM1208Dlg.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\hfrdapi.cpp"
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\HexEdit.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA449.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA44A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/FM1208.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_VC\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA44A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA44B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/FM1208.pdb" /debug /machine:I386 /out:"Debug/FM1208.exe" /pdbtype:sept 
+".\Debug\FM1208.obj"
+".\Debug\FM1208Dlg.obj"
+".\Debug\hfrdapi.obj"
+".\Debug\StdAfx.obj"
+".\Debug\FM1208.res"
+".\Debug\HexEdit.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA44B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FM1208.cpp
+FM1208Dlg.cpp
+hfrdapi.cpp
+HexEdit.cpp
+Generating Code...
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/FM1208.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\FM1208.sbr" ".\Debug\FM1208Dlg.sbr" ".\Debug\hfrdapi.sbr" ".\Debug\HexEdit.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+FM1208.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

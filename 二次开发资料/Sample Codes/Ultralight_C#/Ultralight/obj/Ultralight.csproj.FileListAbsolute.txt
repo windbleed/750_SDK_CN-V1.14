@@ -1,0 +1,42 @@
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\Ultralight.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.exe
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Ultralight.csproj.GenerateResource.Cache
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.exe
+J:\BestCroun\BC750\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Mifare1K\obj\Debug\Ultralight.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.12 Unrelease\二次开发资料\Sample Codes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.12 Unrelease\二次开发资料\Sample Codes\Ultralight_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\bin\Debug\Ultralight.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\bin\Debug\Ultralight.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\Ultralight.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\Ultralight.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\Ultralight.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Ultralight_C#\Ultralight\obj\Debug\Ultralight.pdb
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\Ultralight.exe
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\Ultralight.pdb
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\bin\Debug\Ultralight.exe
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\bin\Debug\Ultralight.pdb
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\Ultralight.Properties.Resources.resources
+I:\BestCroun\BC750\软件资料包\750_SDK_CN V1.13\二次开发资料\Sample Codes\Ultralight_C#\Ultralight\obj\Debug\Ultralight.csproj.GenerateResource.Cache

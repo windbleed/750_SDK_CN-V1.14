@@ -1,0 +1,45 @@
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\bin\Project1.exe
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\bin\Project1.xml
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\obj\Release\ResolveAssemblyReference.cache
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\obj\Release\Project1.frm_main.resources
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\obj\Release\vbdemo.vbproj.GenerateResource.Cache
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\obj\Release\Project1.exe
+F:\工作资料\BestCroun\BC750\EXAMPLE\VB.NET\obj\Release\Project1.xml
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.exe
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.xml
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\bin\Project1.exe
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\bin\Project1.xml
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\ResolveAssemblyReference.cache
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.frm_main.resources
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\vbdemo.vbproj.GenerateResource.Cache
+K:\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.exe
+K:\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.xml
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\bin\Project1.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\bin\Project1.xml
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\ResolveAssemblyReference.cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.frm_main.resources
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\vbdemo.vbproj.GenerateResource.Cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_VB.NET\obj\Release\Project1.xml
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\Project1.exe
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\Project1.xml
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\bin\Project1.exe
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\bin\Project1.xml
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\ResolveAssemblyReference.cache
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\Project1.frm_main.resources
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\vbdemo.vbproj.GenerateResource.Cache
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\ResolveAssemblyReference.cache
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\Project1.frm_main.resources
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\vbdemo.vbproj.GenerateResource.Cache
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\Project1.exe
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\Project1.xml
+H:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Debug\Project1.pdb
+I:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\Project1.exe
+I:\BestCroun\BC750\ExampleCodes\M1_VB.NET\obj\Release\Project1.xml
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\obj\Release\Project1.exe
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\obj\Release\Project1.xml
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\bin\Project1.exe
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\bin\Project1.xml
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\obj\Release\ResolveAssemblyReference.cache
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\obj\Release\Project1.frm_main.resources
+J:\BestCroun\BC750\ExampleCodes Latest\M1_VB.NET\obj\Release\vbdemo.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\Mifare1K.FM1208.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\MultiDeviceOperation.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\Multi-device operation.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\bin\Debug\MultiDeviceOperation.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\bin\Debug\MultiDeviceOperation.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\MultiDeviceOperation.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\Multi-device operation_C#\Multi-device operation\obj\Debug\MultiDeviceOperation.pdb

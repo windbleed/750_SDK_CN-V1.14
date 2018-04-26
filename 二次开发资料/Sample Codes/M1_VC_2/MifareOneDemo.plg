@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MifareOneDemo - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/MifareOneDemo.res" /d "NDEBUG" /d "_AFXDLL" "J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemo.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD97E.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/MifareOneDemo.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\HexEdit.cpp"
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemo.cpp"
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemoDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD97E.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD97F.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/MifareOneDemo.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD97F.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPD980.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/MifareOneDemo.pdb" /machine:I386 /out:"Release/MifareOneDemo.exe" 
+".\Release\HexEdit.obj"
+".\Release\MifareOneDemo.obj"
+".\Release\MifareOneDemoDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\MifareOneDemo.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPD980.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+HexEdit.cpp
+MifareOneDemo.cpp
+MifareOneDemoDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MifareOneDemo.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: MifareOneDemo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/MifareOneDemo.res" /d "_DEBUG" /d "_AFXDLL" "J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemo.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MifareOneDemo.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\HexEdit.cpp"
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemo.cpp"
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\MifareOneDemoDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3A.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/MifareOneDemo.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"J:\BestCroun\BC750\ExampleCodes Latest\M1_VC_2\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3B.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MifareOneDemo.pdb" /debug /machine:I386 /out:"Debug/MifareOneDemo.exe" /pdbtype:sept 
+".\Debug\HexEdit.obj"
+".\Debug\MifareOneDemo.obj"
+".\Debug\MifareOneDemoDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MifareOneDemo.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPDD3C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+HexEdit.cpp
+MifareOneDemo.cpp
+MifareOneDemoDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MifareOneDemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

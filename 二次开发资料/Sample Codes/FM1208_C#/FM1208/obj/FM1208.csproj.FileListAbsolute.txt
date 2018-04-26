@@ -1,0 +1,16 @@
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\bin\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\Mifare1K.FM1208.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\FM1208.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\bin\Debug\FM1208.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\bin\Debug\FM1208.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\Mifare1K.FM1208.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\FM1208.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\FM1208.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\FM1208.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\FM1208_C#\FM1208\obj\Debug\FM1208.pdb

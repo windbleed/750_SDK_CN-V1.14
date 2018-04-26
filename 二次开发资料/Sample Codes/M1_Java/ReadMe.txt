@@ -1,0 +1,1 @@
+需要将BcHidDevice.dll 和 hfrdapi.dll复制到此文件夹下，编译器编译运行的软件才能运行。

@@ -1,0 +1,7 @@
+obj\Release\Project1.exe
+obj\Release\Project1.xml
+.\bin\Project1.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Project1.frm_main.resources
+obj\Release\vbdemo.vbproj.GenerateResource.Cache
+.\bin\Project1.xml

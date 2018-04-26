@@ -1,0 +1,1 @@
+implib -af hfrdapi.lib hfrdapi.dll

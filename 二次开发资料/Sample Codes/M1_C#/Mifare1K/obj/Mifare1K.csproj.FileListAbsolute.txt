@@ -1,0 +1,80 @@
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.exe
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.pdb
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\bin\Debug\Mifare1K.exe
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\bin\Debug\Mifare1K.pdb
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+F:\工作资料\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Release\Mifare1K.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\bin\Release\Mifare1K.pdb
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\ResolveAssemblyReference.cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\Mifare1K.Mifare_1K.resources
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\Mifare1K.Properties.Resources.resources
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\Mifare1K.csproj.GenerateResource.Cache
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\Mifare1K.exe
+F:\Work\BestCroun\BC750\ExampleCode\M1_C#\Mifare1K\obj\Release\Mifare1K.pdb
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.exe
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.pdb
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Release\Mifare1K.exe
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Release\Mifare1K.pdb
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\ResolveAssemblyReference.cache
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.Mifare_1K.resources
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.Properties.Resources.resources
+H:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Release\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Release\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Release\Mifare1K.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+J:\BestCroun\BC750\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+I:\BestCroun\BC750\ExampleCodes\ExampleCodes Latest\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache

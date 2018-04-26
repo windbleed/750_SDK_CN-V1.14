@@ -1,0 +1,7 @@
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\obj\Debug\FM1208.exe
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\obj\Debug\FM1208.pdb
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\bin\Debug\FM1208.exe
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\bin\Debug\FM1208.pdb
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\obj\Debug\Mifare1K.FM1208.resources
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\obj\Debug\FM1208.Properties.Resources.resources
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\FM1208_C#\FM1208\obj\Debug\FM1208.csproj.GenerateResource.Cache

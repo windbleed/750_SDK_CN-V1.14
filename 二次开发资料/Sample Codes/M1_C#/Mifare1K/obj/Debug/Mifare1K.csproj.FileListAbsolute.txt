@@ -1,0 +1,7 @@
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\obj\Debug\Mifare1K.exe
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\obj\Debug\Mifare1K.pdb
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\bin\Debug\Mifare1K.exe
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\bin\Debug\Mifare1K.pdb
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+C:\360安全浏览器下载\750_SDK_CN+V1.14\750_SDK_CN V1.14\二次开发资料\Sample Codes\M1_C#\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache
